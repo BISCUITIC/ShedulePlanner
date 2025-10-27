@@ -1,0 +1,15 @@
+﻿[
+  {
+    "Name": "Иван Петров",
+    "TeachingSubjects": [
+      {
+        "$type": "Lecture",
+        "Name": "Математика"
+      },
+      {
+        "$type": "Tutorial",
+        "Name": "Физика"
+      }
+    ]
+  }
+]

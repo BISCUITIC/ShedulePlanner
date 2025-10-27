@@ -1,0 +1,20 @@
+﻿[
+  {
+    "Name": 101,
+    "StudentsNumber": 25,
+    "Subjects": [
+      {
+        "$type": "Lecture",
+        "Name": "Математика"     
+      },
+      {
+        "$type": "Tutorial",
+        "Name": "Физика"
+      },
+      {
+        "$type": "Lecture",
+        "Name": "Информатика"
+      }
+    ]
+  }
+]

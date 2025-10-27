@@ -1,24 +1,22 @@
-﻿{
-  [
-    {
-      "number": 101,
-      "сapacity": 25
-    },
-    {
-      "number": 102,
-      "сapacity": 30
-    },
-    {
-      "number": 103,
-      "сapacity": 20
-    },
-    {
-      "number": 104,
-      "сapacity": 40
-    },
-    {
-      "number": 105,
-      "сapacity": 35
-    }
-  ]
-}
+﻿[
+  {
+    "Number": 101,
+    "Capacity": 25
+  },
+  {
+    "Number": 102,
+    "Capacity": 30
+  },
+  {
+    "Number": 103,
+    "Capacity": 20
+  },
+  {
+    "Number": 104,
+    "Capacity": 40
+  },
+  {
+    "Number": 105,
+    "Capacity": 35
+  }
+]
