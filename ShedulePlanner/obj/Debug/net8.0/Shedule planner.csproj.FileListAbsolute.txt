@@ -1,0 +1,14 @@
+C:\Users\Dima\Проекты\Visual Studio\Пары\Shedule planner\Shedule planner\bin\Debug\net8.0\Shedule planner.exe
+C:\Users\Dima\Проекты\Visual Studio\Пары\Shedule planner\Shedule planner\bin\Debug\net8.0\Shedule planner.deps.json
+C:\Users\Dima\Проекты\Visual Studio\Пары\Shedule planner\Shedule planner\bin\Debug\net8.0\Shedule planner.runtimeconfig.json
+C:\Users\Dima\Проекты\Visual Studio\Пары\Shedule planner\Shedule planner\bin\Debug\net8.0\Shedule planner.dll
+C:\Users\Dima\Проекты\Visual Studio\Пары\Shedule planner\Shedule planner\bin\Debug\net8.0\Shedule planner.pdb
+C:\Users\Dima\Проекты\Visual Studio\Пары\Shedule planner\Shedule planner\obj\Debug\net8.0\Shedule planner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\Проекты\Visual Studio\Пары\Shedule planner\Shedule planner\obj\Debug\net8.0\Shedule planner.AssemblyInfoInputs.cache
+C:\Users\Dima\Проекты\Visual Studio\Пары\Shedule planner\Shedule planner\obj\Debug\net8.0\Shedule planner.AssemblyInfo.cs
+C:\Users\Dima\Проекты\Visual Studio\Пары\Shedule planner\Shedule planner\obj\Debug\net8.0\Shedule planner.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Проекты\Visual Studio\Пары\Shedule planner\Shedule planner\obj\Debug\net8.0\Shedule planner.dll
+C:\Users\Dima\Проекты\Visual Studio\Пары\Shedule planner\Shedule planner\obj\Debug\net8.0\refint\Shedule planner.dll
+C:\Users\Dima\Проекты\Visual Studio\Пары\Shedule planner\Shedule planner\obj\Debug\net8.0\Shedule planner.pdb
+C:\Users\Dima\Проекты\Visual Studio\Пары\Shedule planner\Shedule planner\obj\Debug\net8.0\Shedule planner.genruntimeconfig.cache
+C:\Users\Dima\Проекты\Visual Studio\Пары\Shedule planner\Shedule planner\obj\Debug\net8.0\ref\Shedule planner.dll
