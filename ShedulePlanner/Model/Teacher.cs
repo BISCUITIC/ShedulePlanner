@@ -4,6 +4,6 @@ namespace ShedulePlanner.Model;
 
 internal record class Teacher
 {
-    public string Name { get; init; }
-    public Subject TeachingSubjects { get; init; }
+    public string Name { get; init; } = null!;
+    public List<Subject> TeachingSubjects { get; init; } = null!;
 }

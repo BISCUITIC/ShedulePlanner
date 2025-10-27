@@ -1,7 +1,10 @@
-﻿namespace ShedulePlanner.Model;
+﻿using ShedulePlanner.Model.Subjects;
+
+namespace ShedulePlanner.Model;
 
 internal record class Group
 {
-    private int Name { get; init; }
-    private int StudentsNumber { get; init; }
+    public int Name { get; init; }
+    public int StudentsNumber { get; init; }
+    public List<Subject> CoreSubjects { get; init; } = null!;
 }
